@@ -1,0 +1,14 @@
+
+
+*{
+
+    padding: 0;
+    margin: 0;
+}
+
+div{
+
+    height: 10vh;
+    width: 100vw;
+    background-color: grey;
+}
